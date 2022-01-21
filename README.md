@@ -1,4 +1,4 @@
-# Bracket_Part_2
+# Bracket Part 2
 
 How to make a bracket. This tutorial is not meant to be complete. It is simply a part two. This code has 3 other parts too. Make sure to check all 3 other ones.
 
